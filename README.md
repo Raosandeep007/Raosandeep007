@@ -47,6 +47,3 @@
 <p align="center">
 <a href="https://github.com/Raosandeep007/github-readme-activity-graph"><img alt="Sandeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raosandeep007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
-<p align="center">
-<a href="https://github.com/sandeepinkle/github-readme-activity-graph"><img alt="Sandeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sandeepinkle&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
