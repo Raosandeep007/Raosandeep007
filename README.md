@@ -2,12 +2,12 @@
 <h1 align="center">Hi, I'm Sandeep Yadav</h1>
 <h3 align="center">A passionate full Stack Web Developer from India</h3>
 
-- 🌱 **Full Stack Web Development**
+- 🌱 **Full Stack Web Developer**
 - 📫 How to reach me **yadavsandeep775@gmail.com**
 - ⚡ Fun fact **I play boxing.**
 - 🧑‍💻 Here is the my personal [Portfolio](https://raosandeep.netlify.app/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-OiRhfrGeje1WZlmRPupGz3RbYk5mjP3/view?usp=sharing)
+<!--- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-OiRhfrGeje1WZlmRPupGz3RbYk5mjP3/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
