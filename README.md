@@ -5,7 +5,7 @@
 - 🌱 **Full Stack Web Developer**
 - 📫 How to reach me **yadavsandeep775@gmail.com**
 - ⚡ Fun fact **I play boxing.**
-- 🧑‍💻 Here is the my personal [Portfolio](https://raosandeep.netlify.app/)
+- 🧑‍💻 Here is my personal [Portfolio](https://raosandeep.netlify.app/)
 
 <!--- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-OiRhfrGeje1WZlmRPupGz3RbYk5mjP3/view?usp=sharing) -->
 
@@ -45,6 +45,4 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sandeep's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raosandeep007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </a>
 </p>
-<p align="center">
-<a href="https://github.com/Raosandeep007/github-readme-activity-graph"><img alt="Sandeep's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Raosandeep007&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-</p>
+
