@@ -6,7 +6,8 @@
 - 🌱 **Full Stack Web Developer**
 - 📫 How to reach me **yadavsandeep775@gmail.com**
 - ⚡ Fun fact **I play boxing.**
-- 🧑‍💻 Here is my personal [Portfolio](https://raosandeep007.netlify.app/)
+- 🧑‍💻 Here is my personal [Portfolio](https://raosandeep.vercel.app/)
+- 🧑‍💻 Here is my personal [Portfolio](https://raosandeep.netlify.app/)
 
 <!--- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-OiRhfrGeje1WZlmRPupGz3RbYk5mjP3/view?usp=sharing) -->
 
