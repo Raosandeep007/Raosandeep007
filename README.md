@@ -1,50 +1,68 @@
-<p align="center">
-     <img src = "https://www.mygo.ge/uploads/blog/1584023795.jpg" width="50%" height = "300px" /></p>
-<h1 align="center">Hi, I'm Sandeep Yadav</h1>
-<h3 align="center">A passionate full Stack Web Developer from India</h3>
 
-- 🌱 **Full Stack Web Developer**
-- 📫 How to reach me **yadavsandeep775@gmail.com**
-- ⚡ Fun fact **I play boxing.**
-- 🧑‍💻 Here is my personal [Portfolio](https://raosandeep.vercel.app/)
-- 🧑‍💻 Here is my personal [Portfolio](https://raosandeep.netlify.app/)
-
-<!--- - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-OiRhfrGeje1WZlmRPupGz3RbYk5mjP3/view?usp=sharing) -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sandeep-yadav-828779149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albart jose" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">::Languages and Tools::</h3>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyBGpmgfsTIPFn93LoswmPpdreMfDpaUqEhz5dQnxkRkLRukj-G9-ogLRv3aoxPYI4naA&usqp=CAU"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFJQeGTllh21dU1WZ5fBO9UmmrbGXzMjPhCw&usqp=CAU"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png"></code>
-
-<h2>GitHub Stats</h2>
-<p align="center">
-<a href="https://github.com/Raosandeep007/github-readme-stats"><img alt="Sandeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raosandeep007&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<h2 align="start">Hi there 👋</h2>
+<p>
+  <img src="https://github.com/user-attachments/assets/eed1f05b-b7b2-4653-a811-be46afb1aa59" alt="Sandeep Yadav - Banner" width="100%" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Raosandeep007/github-readme-stats"><img alt="Sandeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Raosandeep007&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/Raosandeep007/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sandeep's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raosandeep007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a>
+  <a href="https://raosandeep.vercel.app" target="_blank">Portfolio</a> •
+  <a href="https://drive.google.com/drive/u/1/folders/13PcPxfo-pkRGAj4HoJic8oljUXtyT6PY" target="_blank">Resume</a> •
+  <a href="mailto:yadavsandeep775@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/sandeep-yadav-828779149" target="_blank">LinkedIn</a>
 </p>
 
+---
+
+## Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+  <td><strong>Languages</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Frontend</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Backend</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  </td>
+</tr>
+
+<tr>
+  <td><strong>Databases & Tools</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+  </td>
+</tr>
+</table>
+</div>
+
+---
+
+<p align="center">Crafting interfaces. Building systems.</p>
