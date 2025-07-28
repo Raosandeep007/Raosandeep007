@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://raosandeep.vercel.app" target="_blank">Portfolio</a> •
-  <a href="https://drive.google.com/drive/u/1/folders/13PcPxfo-pkRGAj4HoJic8oljUXtyT6PY" target="_blank">Resume</a> •
+  <a href="https://raosandeep.vercel.app/resume.pdf" target="_blank">Resume</a> •
   <a href="mailto:yadavsandeep775@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/sandeep-yadav-828779149" target="_blank">LinkedIn</a>
 </p>
