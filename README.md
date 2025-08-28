@@ -5,19 +5,23 @@
 </p>
 
 <p align="center">
-  <a href="https://raosandeep.vercel.app" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000000" />
+  <a href="https://raosandeep.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000000" alt="Portfolio" />
   </a>&nbsp;&nbsp;
-  <a href="https://raosandeep.vercel.app/resume.pdf" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Resume-3178C6?style=for-the-badge&logo=googledocs&logoColor=white&color=3178C6" />
+  <a href="https://raosandeep.vercel.app/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-3178C6?style=for-the-badge&logo=googledocs&logoColor=white&color=3178C6" alt="Resume" />
   </a>&nbsp;&nbsp;
   <a href="mailto:yadavsandeep775@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sandeep-yadav-828779149" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/yadavsandeep775" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="X" />
   </a>
 </p>
+
 
 ---
 
