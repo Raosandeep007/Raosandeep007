@@ -5,10 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://raosandeep.vercel.app" target="_blank">Portfolio</a> •
-  <a href="https://raosandeep.vercel.app/resume.pdf" target="_blank">Resume</a> •
-  <a href="mailto:yadavsandeep775@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/sandeep-yadav-828779149" target="_blank">LinkedIn</a>
+  <a href="https://raosandeep.vercel.app" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=000000" />
+  </a>&nbsp;&nbsp;
+  <a href="https://raosandeep.vercel.app/resume.pdf" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Resume-3178C6?style=for-the-badge&logo=googledocs&logoColor=white&color=3178C6" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:yadavsandeep775@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sandeep-yadav-828779149" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+  </a>
 </p>
 
 ---
@@ -25,7 +33,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" />
   </td>
 </tr>
 
